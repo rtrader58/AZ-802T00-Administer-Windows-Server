@@ -1,6 +1,6 @@
-# AZ-800T00 Administering Windows Server Hybrid Core Infrastructure
+# AZ-802T00 Administer Windows Server
 ## This repository is provided to enhance the course
-## Updated 7 February 2025
+## Updated 23 September 2026
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
