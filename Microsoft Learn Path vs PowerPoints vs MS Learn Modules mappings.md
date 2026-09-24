@@ -11,7 +11,7 @@ Module 6: Create and configure Group Policy Objects in Active Directory - https:
 Module 7: Implement Group Policy Objects - https://learn.microsoft.com/en-us/training/modules/implement-group-policy-objects/<br>
 Module 8: Manage advanced features of AD DS - https://learn.microsoft.com/en-us/training/modules/manage-advanced-features-of-ad-ds/<br>
 
-### Lab – Coming Soon
+### Lab 01 – Implementing identity services and Group Policy
 
 ## Learning Path 2: Manage Windows Server instances and workloads in a hybrid environment – ILT PPT Module 2 - https://learn.microsoft.com/en-us/training/paths/manage-windows-server-instances-workloads-hybrid-environment/
 
@@ -27,7 +27,7 @@ Module 9: Automate the configuration of Windows Server IaaS Virtual Machines - h
 Module 10: Enforce VM security configuration with Azure Machine Configuration - https://learn.microsoft.com/en-us/training/modules/enforce-vm-security-machine-configuration/<br>
 Module 11: Explore Azure Automation with DevOps - https://learn.microsoft.com/en-us/training/modules/explore-azure-automation-devops/<br>
 
-### Lab – Coming Soon
+### Lab 02 – Managing Windows Server
 
 ## Learning Path 3: Manage virtual machines - ILT PPT Module 3 - https://learn.microsoft.com/en-us/training/paths/manage-virtual-machines/
 
@@ -42,7 +42,7 @@ Module 8: Implement Windows Server IaaS VM IP addressing and routing - https://l
 Module 9: Implement Windows Server IaaS VM network security - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-network-security/<br>
 Module 10 - Administer and manage Windows Server IaaS Virtual Machine remotely - https://learn.microsoft.com/en-us/training/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/<br>
 
-### Lab – Coming soon
+### Lab 03 – Implementing and configuring virtualization in Windows Server
 
 ## Learning Path 4: Implement and manage an on-premises and hybrid networking infrastructure - ILT PPT Module 7 - https://learn.microsoft.com/en-us/training/paths/implement-manage-premises-hybrid-networking-infrastructure/
 
@@ -53,7 +53,7 @@ Module 4: Deploy and manage DHCP - https://learn.microsoft.com/en-us/training/mo
 Module 5: Implement IP Address Management - https://learn.microsoft.com/en-us/training/modules/implement-ip-address-management/br>
 Module 6: Implement Windows Server IaaS VM IP addressing and routing - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/<br>
 
-### Lab – Coming soon
+### Lab 04 – Implementing and configuring network infrastructure services in Windows Server
 
 ## Learning Path 5: Manage storage and file services - ILT PPT Module 5 - https://learn.microsoft.com/en-us/training/paths/manage-storage-file-services/
 
@@ -64,7 +64,8 @@ Module 4: Implement Windows Server Data Deduplication - https://learn.microsoft.
 Module 5: Implement Windows Server iSCSI - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iscsi/br>
 Module 6: Implement Windows Server Storage Replica - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-storage-replica/<br>
 
-### Lab – Coming soon
+### Lab 05 – Implementing Azure File Sync
+### Lab 06 – Implementing storage solutions in Windows Server
 
 ## Learning Path 6: Secure Windows Server infrastructure - ILT PPT Module 6 - https://learn.microsoft.com/en-us/training/paths/secure-windows-server-infrastructure/
 
@@ -78,7 +79,7 @@ Module 7: Secure Windows Server user accounts - https://learn.microsoft.com/en-u
 Module 8: Manage security controls for identity and access - https://learn.microsoft.com/en-us/training/modules/manage-security-controls-identity-access/<br>
 Module 9: Security monitoring and governance - https://learn.microsoft.com/en-us/training/modules/security-monitoring-and-governance/<br>
 
-### Lab – Coming soon
+### Lab 07 – Configuring security in Windows Server
 
 ## Learning Path 7: Monitor and troubleshoot Windows Server environments - ILT PPT Module 7 - https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/
 
@@ -92,4 +93,4 @@ Module 7: Troubleshoot Windows Server Virtual Machines in Azure - https://learn.
 Module 8: Windows Server update management - https://learn.microsoft.com/en-us/training/modules/windows-server-update-management/<br>
 Module 9: Troubleshoot Active Directory - https://learn.microsoft.com/en-us/training/modules/troubleshoot-active-directory/<br>
 
-### Lab – Coming soon
+### Lab 08 – Monitoring and troubleshooting Windows Server
