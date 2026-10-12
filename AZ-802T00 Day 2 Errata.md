@@ -43,6 +43,7 @@ Select Windows Admin Center - Select Unistall
 
 ### Exercise 1: Creating and configuring VMs
 Task 1: Create a Hyper-V virtual switch <br>
+Step 4: When the website opens - close it <br>
 
 Task 2: Create a virtual hard disk <br>
 No errata <br>
