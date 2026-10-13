@@ -1,6 +1,6 @@
 # AZ-802T00 Day 3 Errata
 ## Learning Path 4 Lab: Manage network infrastructure services
-## Learning Path 5 Lab: Manage storage and file services
+## Learning Path 5 Lab 06: Manage storage and file services
 
 ## Note: Use PowerShell ISE as a Administrator as direct paste in PowerShell console doesn't work.
 
@@ -54,55 +54,20 @@ Task 6: Verify DNS policy functionality
 No Errata <br>
 
 ## Learning Path 5 Lab: Manage storage and file services
-## Lab 05: Implementing Azure File Sync
+## Lab 6: Implementing storage solutions in Windows Server
 
-### Exercise 1: Implementing Distributed File System (DFS) Replication in your on-premises environment
+### Exercise 1: Implementing Data Deduplication
 
-Task 1: Deploy DFS <br>
-No erraa <br>
+Task 1: Install the Data Deduplication role service <br>
+Step 14: Pasting into SEA-SVR3 does not work in the next step - Open PowerShell ISE on SEA-ADM1 and  create a PSSession with SEA-SVR3 <br>
+Step 15: Skip <br>
+Step 16: Paste into the script pane in the ISE - run each line individually (Place cursor at the beginning of the line press F8) <br>
+Step 17: Does not work in a PSSession you will need to run the commands individually on SEA-SVR3 - The 6th command should be just Get-Childitem
 
-Task 2: Test DFS deployment
+Task 2: Enable and configure Data Deduplication <br>
 No errata <br>
 
-### Exercise 2: Creating and configuring a sync group
+Task 3: Test Data Deduplication <br>
+Step 3: If the Admin Center opens close it. 
 
-Task 1: Create an Azure file share
-No errata <br>
 
-Task 2: Use an Azure file share <br>
-No errata <br>
-
-Task 3: Deploy Storage Sync Service and a File Sync group <br>
-No errata <br>
-
-### Exercise 3: Replacing DFS Replication with File Sync-based replication
-
-Task 1: Add SEA-SVR1 as a server endpoint <br>
-Step 16: May take a few minutes to populate <br>
-
-Task 2: Register SEA-SVR2 with File Sync <br>
-No errata <br>
-
-Task 3: Remove DFS Replication and add SEA-SVR2 as a server endpoint <br>
-No errata <br>
-
-### Exercise 4: Verifying replication and enabling cloud tiering
-
-Task 1: Verify File Sync <br>
-No errata <br>
-
-Task 2: Enable cloud tiering <br>
-No errata <br>
-
-### Exercise 5: Troubleshooting replication issues
-
-Task 1: Monitor File Sync replication
-No errata <br>
-
-Task 2: Test replication conflict resolution <br>
-No errata <br>
-
-### Exercise 6: Cleaning up the Azure subscription
-
-Task 1: Delete the Azure resources that were created in the lab <br>
-Step 12; Select Delete sync group from inside of Sync1 <br>
