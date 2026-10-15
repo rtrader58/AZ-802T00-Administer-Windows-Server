@@ -101,5 +101,25 @@ Task 1: Create a storage pool <br>
 Step 5: May require refreshing before the disks show online <br>
 
 Task 2: Create a volume based on a three-way mirrored disk <br>
+No errata <br>
 
 Task 3: Manage a volume in File Explorer <br>
+No errata <br>
+
+Task 4: Disconnect a disk from the storage pool and verify volume availability <br>
+No errata <br>
+
+Task 5: Add a disk to the storage pool and verify volume availability <br>
+No errata <br>
+
+Task 6: Revert disk configuration <br>
+No errata <br>
+
+Step 2 Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+No errata <br>
+
+### Exercise 4: Implementing Storage Spaces Direct
+
+Note: Ensure you exit out of the PSSession with SEA-SVR3 before continueing <br>
+
+Task 1: Prepare for installation of Storage Spaces Direct <br>
