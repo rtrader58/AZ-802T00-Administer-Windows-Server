@@ -1,11 +1,11 @@
 # AZ-802T00 Day 3 Errata
 ## Learning Path 4 Lab: Manage network infrastructure services
 ## Learning Path 5 Lab 06: Manage storage and file services
-
+## Keep an eye on the time - the allotted time is 60 minutes, this lab will require extending at least once
 ## Note: Use PowerShell ISE as a Administrator as direct paste in PowerShell console doesn't work.
 
 ## Learning Path 4 Lab: Manage network infrastructure services
-## Lab 04: Implementing and configuring network infrastructure services in Windows Server (~60 Minutes)
+## Lab 04: Implementing and configuring network infrastructure services in Windows Server (~90 Minutes)
 
 ### Exercise 1: Deploying and configuring DHCP
 
@@ -55,11 +55,9 @@ No Errata <br>
 
 ## Learning Path 5 Lab: Manage storage and file services
 ## Lab 6: Implementing storage solutions in Windows Server
-
 ### Exercise 1: Implementing Data Deduplication
 
 Task 1: Install the Data Deduplication role service <br>
-Step 15: <br>
 Step 16: Pasting into SEA-SVR3 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
 Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
 
@@ -72,8 +70,36 @@ Here are the steps to unistall Windows Admin Center <br>
 Click Start - Settings <br>
 Click Apps <br>
 Select Windows Admin Center - Select Uninstall <br>
-
-Step 3: It will take a few moments for the install to start - be patient. If the Windows Admin Center does not install browse to opens - close it <br>
+Step 3: It will take a few moments for the install to start - be patient. If the Windows Admin Center opens - close it <br>
 Step 7: Use the instructions provided by the instuctor to launch the wesbite if the certificate is expired. Use the Contoso\administrator credential in the lab, located under the resources tab, if available select the box Use these credentials for all connections <br
+Step 10: Wait for the extensions to finish installing and you get the OK prompt <br>
+Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
 
 
+### Exercise 2: Configuring iSCSI storage
+
+Task 1: Install iSCSI and configure targets <br>
+Step 4: Paste into the ISE script pane and the use F8 to run each line individually <br>
+Step 5: Paste into the ISE script pane and the use F8 to run each line individually <br>
+Step 6: Paste into the ISE script pane and the use F8 to run each line individually <br>
+Step 7: Paste into the ISE script pane and the use F8 to run each line individually <br>
+
+Task 2: Connect to and configure iSCSI targets <br>
+Step 23: Pasting into SEA-DC1 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
+
+Task 3: Verify iSCSI disk configuration <br>
+Step 5: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+Step 7: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+Step 8: Pasting into SEA-SVR3 does not work - paste into notepad, make changes and then copy into the PowerShell Prompt - if you see an error ignore as the drive will be formatted <br>
+
+Task 4: Revert disk configuration <br>
+No errata <br>
+
+### Exercise 3: Configuring redundant Storage Spaces
+
+Task 1: Create a storage pool <br>
+Step 5: May require refreshing before the disks show online <br>
+
+Task 2: Create a volume based on a three-way mirrored disk <br>
+
+Task 3: Manage a volume in File Explorer <br>
