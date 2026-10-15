@@ -59,15 +59,21 @@ No Errata <br>
 ### Exercise 1: Implementing Data Deduplication
 
 Task 1: Install the Data Deduplication role service <br>
-Step 14: Pasting into SEA-SVR3 does not work in the next step - Open PowerShell ISE on SEA-ADM1 and  create a PSSession with SEA-SVR3 <br>
-Step 15: Skip <br>
-Step 16: Paste into the script pane in the ISE - run each line individually (Place cursor at the beginning of the line press F8) <br>
-Step 17: Does not work in a PSSession you will need to run the commands individually on SEA-SVR3 - The 6th command should be just Get-Childitem
+Step 15: <br>
+Step 16: Pasting into SEA-SVR3 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
+Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
 
 Task 2: Enable and configure Data Deduplication <br>
 No errata <br>
 
 Task 3: Test Data Deduplication <br>
-Step 3: If the Admin Center opens close it. 
+Before starting Task 3 you need to uninstall the existing Windows Admin Center using the following steps <br>
+Here are the steps to unistall Windows Admin Center <br>
+Click Start - Settings <br>
+Click Apps <br>
+Select Windows Admin Center - Select Uninstall <br>
+
+Step 3: It will take a few moments for the install to start - be patient. If the Windows Admin Center does not install browse to opens - close it <br>
+Step 7: Use the instructions provided by the instuctor to launch the wesbite if the certificate is expired. Use the Contoso\administrator credential in the lab, located under the resources tab, if available select the box Use these credentials for all connections <br
 
 
