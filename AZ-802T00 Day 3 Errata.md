@@ -1,4 +1,4 @@
-# AZ-802T00 Day 3 Errata
+# AZ-802T00 Administer Windows Server - Day 3 Errata
 ## Learning Path 4 Lab: Manage network infrastructure services
 ## Learning Path 5 Lab 06: Manage storage and file services
 ## Keep an eye on the time - the allotted time is 60 minutes, this lab will require extending at least once

@@ -1,4 +1,4 @@
-# AZ-802T00 Day 2 Errata
+# AZ-802T00 Administer Windows Server Day 2 Errata
 ## Learning Path 2: Manage Windows Server instances and workloads in a hybrid environment
 ## Learning Path 3: Manage virtual machines
 

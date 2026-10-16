@@ -1,4 +1,4 @@
-# AZ-802T00 Day 4 Errata
+# AZ-802T00 Administer Windows Server - Day 4 Errata
 ## Finish Learning Path 5: ​Manage storage and file services​​
 ## Learning Path 6:​  Secure Windows Server​​
 
@@ -58,3 +58,35 @@ No errata <br>
 Task 1: Delete the Azure resources that were created in the lab <br>
 Step 12; Select Delete sync group from inside of Sync1 <br>
 
+## Learning Path 6:​ Secure Windows Server​​
+## Lab 07: Configuring security in Windows Server ~45 Minutes
+
+### Exercise 1: Configuring Windows Defender Credential Guard
+
+Task 1: Enable Windows Defender Credential Guard using Group Policy <br>
+No Errata <br>
+
+Task 2: Enable Windows Defender Credential Guard using the Hypervisor-Protected Code Integrity (HVCI) and Windows Defender Credential Guard hardware readiness tool <br>
+No Errata <br>
+
+### Exercise 2: Locating problematic accounts
+
+Task 1: Locate and reconfigure domain accounts with non-expiring passwords <br>
+No Errata <br>
+
+Task 2: Locate and disable domain accounts that have not been used to sign in for at least 90 days <br>
+No Errata <br>
+
+### Exercise 3: Implementing LAPS
+
+Task 1: Prepare computer accounts for implementing LAPS (Local Administrator Password Solution) <br>
+Step 8: Paste into the Script pane - use F8 to run each line individually <br>
+
+Task 2: Prepare AD DS for LAPS <br>
+Step 1: Paste into the Script pane - use F8 to run each line individually <br>
+
+Task 3: Deploy LAPS client-side extension <br>
+Step 2: Pasting into SEA-SVR1 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+Step 3: Pasting into SEA-SVR1 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+
+Task 4: Verify LAPS <br>

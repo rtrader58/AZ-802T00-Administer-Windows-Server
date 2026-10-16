@@ -1,4 +1,4 @@
-# AZ-802T00 Day One Errata
+# AZ-802T00 Administer Windows Server - Day One Errata
 ## Learning Path 1: Deploy and manage Active Directory Domain Services
 
 ## Note: Use PowerShell ISE as Administrator since direct paste in PowerShell console doesn't work.
