@@ -1,6 +1,6 @@
 # AZ-802T00 Administer Windows Server
 ## This repository is provided to enhance the course
-## Updated 23 September 2026
+## Updated October 2026
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
