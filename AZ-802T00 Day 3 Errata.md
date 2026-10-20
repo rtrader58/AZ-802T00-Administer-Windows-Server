@@ -75,14 +75,13 @@ Step 7: Use the instructions provided by the instuctor to launch the wesbite if 
 Step 10: Wait for the extensions to finish installing and you get the OK prompt <br>
 Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
 
-
 ### Exercise 2: Configuring iSCSI storage
 
 Task 1: Install iSCSI and configure targets <br>
-Step 4: Paste into the ISE script pane and the use F8 to run each line individually <br>
-Step 5: Paste into the ISE script pane and the use F8 to run each line individually <br>
-Step 6: Paste into the ISE script pane and the use F8 to run each line individually <br>
-Step 7: Paste into the ISE script pane and the use F8 to run each line individually <br>
+Step 4: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete <br>
+Step 5: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
+Step 6: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
+Step 7: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
 
 Task 2: Connect to and configure iSCSI targets <br>
 Step 23: Pasting into SEA-DC1 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
