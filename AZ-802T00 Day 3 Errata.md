@@ -1,6 +1,6 @@
 # AZ-802T00 Administer Windows Server - Day 3 Errata
-## Learning Path 4 Lab: Manage network infrastructure services
-## Learning Path 5 Lab 06: Manage storage and file services
+## Learning Path 4 Lab 04: Manage network infrastructure services ~90 Minutes
+## Learning Path 5 Lab 05: Implementing Azure File Sync ~60 Minutes
 ## Keep an eye on the time - the allotted time is 60 minutes, this lab will require extending at least once
 ## Note: Use PowerShell ISE as a Administrator as direct paste in PowerShell console doesn't work.
 
@@ -54,71 +54,57 @@ Task 6: Verify DNS policy functionality
 No Errata <br>
 
 ## Learning Path 5 Lab: Manage storage and file services
-## Lab 6: Implementing storage solutions in Windows Server
-### Exercise 1: Implementing Data Deduplication
+## Lab 05: Implementing Azure File Sync ~60 Minutes
 
-Task 1: Install the Data Deduplication role service <br>
-Step 16: Pasting into SEA-SVR3 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
-Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+### Exercise 1: Implementing Distributed File System (DFS) Replication in your on-premises environment
 
-Task 2: Enable and configure Data Deduplication <br>
+Task 1: Deploy DFS <br>
+No erraa <br>
+
+Task 2: Test DFS deployment
 No errata <br>
 
-Task 3: Test Data Deduplication <br>
-Before starting Task 3 you need to uninstall the existing Windows Admin Center using the following steps <br>
-Here are the steps to unistall Windows Admin Center <br>
-Click Start - Settings <br>
-Click Apps <br>
-Select Windows Admin Center - Select Uninstall <br>
-Step 3: It will take a few moments for the install to start - be patient. If the Windows Admin Center opens - close it <br>
-Step 7: Use the instructions provided by the instuctor to launch the wesbite if the certificate is expired. Use the Contoso\administrator credential in the lab, located under the resources tab, if available select the box Use these credentials for all connections <br
-Step 10: Wait for the extensions to finish installing and you get the OK prompt <br>
-Step 17: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+### Exercise 2: Creating and configuring a sync group
 
-### Exercise 2: Configuring iSCSI storage
-
-Task 1: Install iSCSI and configure targets <br>
-Step 4: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete <br>
-Step 5: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
-Step 6: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
-Step 7: Paste into the ISE script pane and the use F8 to run each line individually, wait for each to run and complete  <br>
-
-Task 2: Connect to and configure iSCSI targets <br>
-Step 23: Pasting into SEA-DC1 does not work - Open Type notepad by typeing notepad.exe - paste into notepad and then copy into the PowerShell Prompt <br>
-
-Task 3: Verify iSCSI disk configuration <br>
-Step 5: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
-Step 7: Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
-Step 8: Pasting into SEA-SVR3 does not work - paste into notepad, make changes and then copy into the PowerShell Prompt - if you see an error ignore as the drive will be formatted <br>
-
-Task 4: Revert disk configuration <br>
+Task 1: Create an Azure file share
 No errata <br>
 
-### Exercise 3: Configuring redundant Storage Spaces
-
-Task 1: Create a storage pool <br>
-Step 5: May require refreshing before the disks show online <br>
-
-Task 2: Create a volume based on a three-way mirrored disk <br>
+Task 2: Use an Azure file share <br>
 No errata <br>
 
-Task 3: Manage a volume in File Explorer <br>
+Task 3: Deploy Storage Sync Service and a File Sync group <br>
 No errata <br>
 
-Task 4: Disconnect a disk from the storage pool and verify volume availability <br>
+### Exercise 3: Replacing DFS Replication with File Sync-based replication
+
+Task 1: Add SEA-SVR1 as a server endpoint <br>
+Step 16: May take a few minutes to populate <br>
+
+Task 2: Register SEA-SVR2 with File Sync <br>
 No errata <br>
 
-Task 5: Add a disk to the storage pool and verify volume availability <br>
+Task 3: Remove DFS Replication and add SEA-SVR2 as a server endpoint <br>
 No errata <br>
 
-Task 6: Revert disk configuration <br>
+### Exercise 4: Verifying replication and enabling cloud tiering
+
+Task 1: Verify File Sync <br>
 No errata <br>
 
-Step 2 Pasting into SEA-SVR3 does not work - paste into notepad and then copy into the PowerShell Prompt <br>
+Task 2: Enable cloud tiering <br>
 No errata <br>
 
-### Exercise 4: Implementing Storage Spaces Direct
+### Exercise 5: Troubleshooting replication issues
 
-Note: Ensure you exit out of the PSSession with SEA-SVR3 before continueing <br>
+Task 1: Monitor File Sync replication
+No errata <br>
 
-Task 1: Prepare for installation of Storage Spaces Direct <br>
+Task 2: Test replication conflict resolution <br>
+No errata <br>
+
+### Exercise 6: Cleaning up the Azure subscription
+
+Task 1: Delete the Azure resources that were created in the lab <br>
+Step 12; Select Delete sync group from inside of Sync1 <br>
+
+
