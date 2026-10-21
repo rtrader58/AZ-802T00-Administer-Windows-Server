@@ -1,11 +1,11 @@
 # AZ-802T00 Administer Windows Server - Day 3 Errata
-## Learning Path 4 Lab 04: Manage network infrastructure services ~90 Minutes
+## Learning Path 4 Lab 04: Manage network infrastructure services ~30 Minutes
 ## Learning Path 5 Lab 05: Implementing Azure File Sync ~60 Minutes
 ## Keep an eye on the time - the allotted time is 60 minutes, this lab will require extending at least once
 ## Note: Use PowerShell ISE as a Administrator as direct paste in PowerShell console doesn't work.
 
 ## Learning Path 4 Lab: Manage network infrastructure services
-## Lab 04: Implementing and configuring network infrastructure services in Windows Server (~90 Minutes)
+## Lab 04: Implementing and configuring network infrastructure services in Windows Server (~60 Minutes)
 
 ### Exercise 1: Deploying and configuring DHCP
 
