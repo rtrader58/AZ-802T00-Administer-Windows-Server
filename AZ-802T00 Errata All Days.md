@@ -27,22 +27,22 @@ Steps 5 - 9: Does not paste correcty. Use these steps to complete in the Gui > L
 Task 1: Create and edit a GPO <br>
 No errata <br>
 
-Task 2: Link the GPO
+Task 2: Link the GPO <br>
 No errata <br>
 
-Task 3: Review the effects of the GPO's settings
+Task 3: Review the effects of the GPO's settings <br>
 No errata <br>
 
-Task 4: Create and link the required GPOs
+Task 4: Create and link the required GPOs <br>
 No errata <br>
 
-Task 5: Verify the order of precedence
+Task 5: Verify the order of precedence <br>
 No errata <br>
 
-Task 6: Configure the scope of a GPO with security filtering
+Task 6: Configure the scope of a GPO with security filtering <br>
 No errata <br>
 
-Task 7: Verify the application of settings
+Task 7: Verify the application of settings <br>
 No errata <br>
 
 # Day 2 Errata
