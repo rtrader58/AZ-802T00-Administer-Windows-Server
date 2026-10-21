@@ -35,22 +35,22 @@ No errata <br>
 
 ### Exercise 2: Deploying and configuring DNS
 
-Task 1: Install the DNS role
+Task 1: Install the DNS role <br>
 No Errata <br>
 
-Task 2: Create a DNS zone
+Task 2: Create a DNS zone <br>
 No Errata <br>
 
-Task 3: Configure forwarding
+Task 3: Configure forwarding <br>
 No Errata <br>
 
-Task 4: Configure conditional forwarding
+Task 4: Configure conditional forwarding <br>
 No Errata <br>
 
-Task 5: Configure DNS policies
+Task 5: Configure DNS policies <br>
 No Errata <br>
 
-Task 6: Verify DNS policy functionality
+Task 6: Verify DNS policy functionality <br>
 No Errata <br>
 
 ## Learning Path 5 Lab: Manage storage and file services
