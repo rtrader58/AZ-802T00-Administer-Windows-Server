@@ -62,4 +62,4 @@ Search-ADAccount -AccountExpiring -DateTime "1/1/2017" -UsersOnly
 Search-ADAccount -ComputersOnly -LockedOut
 
 ###  Retrieve all ADDS Users accounts that are locked out
-Search-ADAccount -ADUsersOnlu -LockedOut
+Search-ADAccount -ADUsersOnly -LockedOut
