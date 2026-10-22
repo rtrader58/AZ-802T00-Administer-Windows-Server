@@ -1,7 +1,5 @@
 # User Group PowerShell examples
 
-## Created by Janet Nichols
-
 ### Create a new user in the IT ou
 New-ADUser -Name Macie -DisplayName "Macie Nichols" -GivenName Macie -Surname Nichols -Path "ou=it,dc=adatum,dc=com"
 
