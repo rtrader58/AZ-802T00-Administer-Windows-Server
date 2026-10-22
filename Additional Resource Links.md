@@ -3,7 +3,7 @@
 ## Module 0
 Interface Technical Training – https://interfacett.com <br>
 Interface Technical Training Facebook page - https://www.facebook.com/InterfaceTraining <br>
-Interface Technical Training LinkeddIn Page - https://www.linkedin.com/company/interface-technical-training/posts/ <br>
+Interface Technical Training LinkedIn Page - https://www.linkedin.com/company/interface-technical-training/posts/ <br>
 AZ-802 Exam objectives - https://learn.microsoft.com/en-us/credentials/certifications/exams/az-802/ <br>
 AZ-802 Exam Study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-802<br>
 Microsoft Certified: Windows Server Administrator Associate - https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/?practice-assessment-type=certification <br>
